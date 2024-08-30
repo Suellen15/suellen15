@@ -1,16 +1,16 @@
-## Hi there 👋
+ ## Boas vindas ao meu perfil 💙
 
-<!--
-**Suellen15/suellen15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Meu nome è Suellen Vitoria**
 
-Here are some ideas to get you started:
+ _Estou estudando na alura_
+_Estou me desenvolvendo na plataforma JavaScript_
+ _Ultilizo esse espaçco para minha organização e compartilhamento dos meus projetos desenvolvidos_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Voce pode entrar em contato comigo** 📧
+ 
+ 00001122120904sp@al.educacao.sp.gov.br
+
+ @santoss_xn
+
+![](https://media1.tenor.com/m/hwGiaH9YK9UAAAAC/kitty-kitten.gif)
+ 
